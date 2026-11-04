@@ -13,7 +13,7 @@ Each arm servo sets an absolute angle: the shoulder servo sets the upper arm's a
 
 ## Limits
 
-The mechanism collapses when the upper arm and forearm line up and binds when it is folded, so the angle between them stays between 20° and 150°. With the shoulder between 20° and 100° and the forearm between −90° and +20°, all 2,031 poses in that window were checked. *NOTE: After dry fitting, I did change certain limits which you can see in the 
+The mechanism collapses when the upper arm and forearm line up and binds when it is folded, so the angle between them stays between 20° and 150°. With the shoulder between 20° and 100° and the forearm between −90° and +20°, all 2,031 poses in that window were checked. *NOTE: After dry fitting, I did change certain limits which you can see in the main code robotic-arm-github/robotic-arm/firmware/arm_shoulder_elbow
 
 ## Layer map
 
