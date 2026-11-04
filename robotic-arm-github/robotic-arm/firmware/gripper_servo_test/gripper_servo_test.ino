@@ -1,8 +1,5 @@
 /*
-  Gripper servo test: find the open and closed angles.
-  Wire the gripper servo signal to D9, power the servo from the external 5 V supply
-  (common ground with the Arduino). Open the Serial Monitor at 9600 baud, type an
-  angle (0-180) and press Enter. Note the angle where the jaws just close on the foam
+  U can use this to find the grippers max angle. I decided to just let it open and close to the max since I manually callibrated the servo for the 0 to be pararell to the static part of the gripper)
   pads (closed) and the angle where the jaw is fully open. Never go past either.
 */
 #include <Servo.h>
