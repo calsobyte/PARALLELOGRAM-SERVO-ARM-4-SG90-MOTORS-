@@ -4,9 +4,7 @@
 
 Writes STL files (cad/stl/) and PNG renders (docs/images/) from one parametric
 description. Units are millimetres.
-
-Axes: X = forward (arm direction), Y = up, Z = towards the viewer in the front
-view (front layer L0 has the largest Z, back layer L3 the smallest).
+* AI HELPED ME DO THIS
 
 Usage:  python3 cad/generate_cad.py          (needs numpy and pillow)
 """
