@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Checks the parallelogram gripper arm over its whole range of motion (pure Python, no dependencies).
+Used python to digitally check for any collision that might occur. I still recommend doing a dry fit to make sure all of it works. (BUILT PURELY ON PYTHON. NO DEPENDECIES)
 
   1. clearance between sticks that share a layer (sticks are 10 mm wide)
   2. clearance between each pin and the sticks it passes beside
