@@ -2,7 +2,7 @@
 
 ## Coordinates and names
 
-Side view, millimetres. X is forward, Y is up. Pivots: A shoulder axle · B elbow · C forearm tip · D crank tip · E rear end of the forearm · K fixed point on the base · F and H leveling points. Layers run from L0 (front, shoulder-servo side) to L3 (back, elbow-servo side). One layer slot is 3.5 mm: a 3 mm link plus a 0.5 mm washer.
+Side view, in milimetres
 
 ## The three parallelograms
 
@@ -13,7 +13,7 @@ Each arm servo sets an absolute angle: the shoulder servo sets the upper arm's a
 
 ## Limits
 
-The mechanism collapses when the upper arm and forearm line up and binds when it is folded, so the angle between them stays between 20° and 150°. With the shoulder between 20° and 100° and the forearm between −90° and +20°, all 2,031 poses in that window were checked.
+The mechanism collapses when the upper arm and forearm line up and binds when it is folded, so the angle between them stays between 20° and 150°. With the shoulder between 20° and 100° and the forearm between −90° and +20°, all 2,031 poses in that window were checked. *AGAIN, CALIBRATE IT YOURSELF TO MAKE SURE*
 
 ## Layer map
 
@@ -35,7 +35,6 @@ The mechanism collapses when the upper arm and forearm line up and binds when it
 | F | KF (L0), FH (L1), BF (L2) |
 | H | FH (L1), palm (L2) |
 
-How the layout was found: every assignment of the nine links to layers was tested. A layout counts only if sticks on the same layer keep at least 1.5 mm between edges over the whole range and no pin passes through another stick. A first layout, with the crank next to the upper arm, failed because the elbow rod passed through the back servo's body at low shoulder angles. Moving the crank to the back layer, next to the elbow servo, puts both servos outside the stack.
 
 ## Sticks and joints
 
