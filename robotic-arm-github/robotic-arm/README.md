@@ -32,7 +32,7 @@ This project is a simple 3-DOF gripper servo but made with a parallelogram linka
 | E–B–C | E–B 25 mm, B–C 75 mm | L3 | Forearm with a rear extension |
 | AD | 25 mm | L3 | Crank, driven by the elbow servo |
 
-![Layer stack seen from above](docs/schemes/layer-stack-top-view.svg)
+![Layer stack seen from above](robotic-arm-github/robotic-arm/docs/images/render_top.png)
 
 ![Exploded view](docs/images/render_exploded.png)
 
