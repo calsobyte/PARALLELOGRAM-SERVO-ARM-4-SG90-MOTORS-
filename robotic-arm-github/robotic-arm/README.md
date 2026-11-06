@@ -50,6 +50,12 @@ Key numbers from the simulation (see [docs/DESIGN_NOTES.md](docs/DESIGN_NOTES.md
 ## 3D model
 
 The STL files are in [cad/stl](cad/stl). GitHub shows each one in an interactive 3D viewer: click a file and drag to rotate.
+![The real arm](docs/photos/arm-front.jpg)
+![The real arm](docs/photos/arm-side.jpg)
+![The real arm](docs/photos/dryfit.jpg)
+
+[![Watch the video](https://youtu.be/8PEyyOTmg7Y)
+
 
 | File | Contents |
 |---|---|
