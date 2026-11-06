@@ -47,15 +47,15 @@ Key numbers from the simulation (see [docs/DESIGN_NOTES.md](docs/DESIGN_NOTES.md
 | Worst-case gravity moment about the axle | 0.46 kg·cm empty, 0.71 kg·cm with a 10 g object |
 | Effect of a 0.5 mm rod-length error | Palm or forearm tilts by about 1° typically, up to about 6° at the ends of travel |
 
-## 3D model
+## 3D model & Photos
 
-The STL files are in [cad/stl](cad/stl). GitHub shows each one in an interactive 3D viewer: click a file and drag to rotate.
 ![The real arm](docs/photos/arm-front.jpg)
 ![The real arm](docs/photos/arm-side.jpg)
 ![The real arm](docs/photos/dryfit.jpg)
 
-[![Watch the video](https://youtu.be/8PEyyOTmg7Y)
+The STL files are in [cad/stl](cad/stl). GitHub shows each one in an interactive 3D viewer: click a file and drag to rotate.
 
+You can watch a demo video in the photos folder, where there is a youtube link
 
 | File | Contents |
 |---|---|
